@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "outDir": "build/dist",
+    "module": "esnext",
+    "target": "es6",
+    "lib": ["dom", "es6", "es7", "esnext.asynciterable", "es2017.object"],
+    "sourceMap": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "rootDir": "./"
+  }
+}
